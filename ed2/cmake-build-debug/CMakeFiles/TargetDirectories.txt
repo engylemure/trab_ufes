@@ -1,0 +1,7 @@
+/home/jordao/Documentos/trab_ed2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/jordao/Documentos/trab_ed2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/jordao/Documentos/trab_ed2/cmake-build-debug/CMakeFiles/exercicio3.dir
+/home/jordao/Documentos/trab_ed2/cmake-build-debug/CMakeFiles/ed2_trab_2_bintree.dir
+/home/jordao/Documentos/trab_ed2/cmake-build-debug/CMakeFiles/ed2_trab_1_runb.dir
+/home/jordao/Documentos/trab_ed2/cmake-build-debug/CMakeFiles/ed2_trab_2_hash.dir
+/home/jordao/Documentos/trab_ed2/cmake-build-debug/CMakeFiles/ed2_trab_1_runa.dir

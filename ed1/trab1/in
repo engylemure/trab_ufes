@@ -1,0 +1,23 @@
+bairro incluir 1 'UFES'
+bairro incluir 2 'UVV'
+bairro incluir 3 'FAESA'
+bairro incluir 4 'UCL'
+bairro incluir 4 'UCL'
+rua incluir 1 2 'CT 9'
+rua incluir 1 1 'IC 1'
+rua incluir 1 3 'IC 2'
+casa incluir 1 2 1 1 'Aluno 1'
+casa incluir 1 1 2 2 'Aluno 2'
+casa incluir 1 3 3 3 'Aluno 3'
+rua eliminar 1 3	
+rua eliminar 1 1
+casa consumir 1 2 1 100 
+casa medir 1 2 1 
+casa consumir 1 2 1 133
+casa medir 1 2 1
+casa consumir 1 2 1 -183
+casa medir 1 2 1
+bairro eliminar 2
+bairro eliminar 3
+bairro eliminar 4
+bairro incluir 1 'UFES'

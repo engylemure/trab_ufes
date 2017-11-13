@@ -1,0 +1,27 @@
+bairro incluir 1 '1'
+bairro incluir 2 '2'
+bairro incluir 3 '3'
+bairro incluir 4 '4'
+bairro incluir 5 '5'
+bairro eliminar 1 
+bairro incluir 1 '1'
+bairro eliminar 2
+bairro eliminar 3
+rua incluir 1 1 '1'
+rua incluir 1 2 '2'
+rua incluir 1 2 '2'
+rua eliminar 1 2
+rua incluir 1 3 '3'
+casa consumir 1 1 1 150
+casa incluir 1 1 1 1 'UM'
+casa incluir 1 1 2 2 'Dois'
+casa consumir 1 1 1 150
+casa consumir 1 1 1 50
+casa medir 1 1 1
+casa consumir 1 1 2 20
+casa medir 1 1 2
+bairro incluir 2 '2'
+rua incluir 2 1 '1'
+casa incluir 2 1 1 1 'UM'
+casa medir 2 1 1 
+rua eliminar 2 1 
